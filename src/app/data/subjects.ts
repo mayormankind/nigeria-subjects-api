@@ -119,7 +119,7 @@ export const subjectsData = {
     "Social Studies",
     "Yoruba Language"
   ],
-  "jSS_1": [
+  "jss_1": [
     "Agriculture",
     "Arabic",
     "Basic Science",
@@ -142,7 +142,7 @@ export const subjectsData = {
     "Social Studies",
     "Yoruba Language"
   ],
-  "jSS_2": [
+  "jss_2": [
     "Agriculture",
     "Arabic",
     "Basic Science",
@@ -165,7 +165,7 @@ export const subjectsData = {
     "Social Studies",
     "Yoruba Language"
   ],
-  "jSS_3": [
+  "jss_3": [
     "Agriculture",
     "Arabic",
     "Basic Science",
